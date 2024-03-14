@@ -233,9 +233,16 @@ a {
       -moz-border-radius: 15px;
       -ms-border-radius: 15px;
       -o-border-radius: 15px;
+
+      .home-logo {
+        height: 380px;
+        padding: 50px;
+      }     
 }
     
     @media (min-width: 768px) {
+
+
       .site-footer {
         padding: 0.2em 0;
         padding-top: 40px;
